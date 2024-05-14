@@ -1,0 +1,7 @@
+altair
+langchain
+llama-index
+streamlit
+transformers
+python-dotenv
+
